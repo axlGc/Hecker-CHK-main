@@ -1,0 +1,1340 @@
+{"update_id":971330885,
+"message":{"message_id":106,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1749149879,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+{"update_id":971330886,
+"message":{"message_id":107,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1749149898,"text":"1234567890123456|12|2025|123"}}
+{"update_id":971330887,
+"message":{"message_id":108,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1749150026,"text":"1234567890123456|12|2025|123"}}
+{"update_id":971330888,
+"message":{"message_id":109,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1749150047,"text":"1234567890123456|12|2025|123"}}
+{"update_id":971330889,
+"message":{"message_id":110,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1749150071,"text":"1234567890123456|12|2025|123"}}
+{"update_id":971330890,
+"message":{"message_id":111,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1749150073,"text":"1234567890123456|12|2025|123"}}
+{"update_id":971330891,
+"message":{"message_id":112,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1749150113,"text":"ll"}}
+
+
+{"update_id":971330892,
+"message":{"message_id":113,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1749150505,"text":"34567890123456|12|2025|123","entities":[]}}
+
+
+
+
+
+
+{"update_id":971330893,
+"message":{"message_id":114,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1749155607,"text":"34567890123456|12|2025|123","entities":[]}}
+null
+null
+null
+{
+    "update_id": 971330894,
+    "message": {
+        "message_id": 115,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749156163,
+        "text": "34567890123456|12|2025|123",
+        "entities": []
+    }
+}
+{
+    "update_id": 971330895,
+    "message": {
+        "message_id": 116,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749156186,
+        "text": "567890123456|12|2025|123"
+    }
+}
+{
+    "update_id": 971330896,
+    "message": {
+        "message_id": 117,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749156861,
+        "text": "4020200227944596|12|2024|746",
+        "entities": []
+    }
+}
+{
+    "update_id": 971330897,
+    "message": {
+        "message_id": 118,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749156922,
+        "text": "\/sk 4020200227944596|12|2024|746",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330898,
+    "message": {
+        "message_id": 120,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749156976,
+        "text": "\/sk 4020200227944596|12|2024|746",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330899,
+    "message": {
+        "message_id": 122,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749157580,
+        "text": "\/sk 4093550051144180|04|2029|061",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330900,
+    "message": {
+        "message_id": 124,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749157844,
+        "text": "\/sk sk_live_4093550051144180|04|2029|061",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330901,
+    "message": {
+        "message_id": 126,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749157861,
+        "text": "\/sk sk_live_4093550051144180",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330902,
+    "message": {
+        "message_id": 128,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749157875,
+        "text": "\/sk 4093550051144180",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330906,
+    "message": {
+        "message_id": 133,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749250642,
+        "text": "\/sk 5384150000784163|11|2025|124",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330907,
+    "message": {
+        "message_id": 135,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749250685,
+        "text": "\/sk 5384150000784163|11|2025|124",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330908,
+    "message": {
+        "message_id": 137,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749250703,
+        "text": "376526521366922|12|25|5298",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 26,
+                "type": "code"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330909,
+    "message": {
+        "message_id": 138,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749250716,
+        "text": "\/sk 376526521366922|12|25|5298",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 30,
+                "type": "code"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330910,
+    "message": {
+        "message_id": 140,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749250737,
+        "text": "\/sk",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330911,
+    "message": {
+        "message_id": 142,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749250850,
+        "text": "\/sk tu_clave_secreta_de_stripe",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330912,
+    "message": {
+        "message_id": 144,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749250994,
+        "text": "\/sk 376526521366922",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330916,
+    "message": {
+        "message_id": 149,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749252041,
+        "text": "\/ch 5384150000784163|11|2025|124",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330917,
+    "message": {
+        "message_id": 151,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749252137,
+        "text": "\/ch  4000223202054763|09|28|805",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            },
+            {
+                "offset": 5,
+                "length": 26,
+                "type": "code"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330918,
+    "message": {
+        "message_id": 153,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749252236,
+        "text": "\/ch 4093550040722443|11|2027|410",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330919,
+    "message": {
+        "message_id": 155,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749253026,
+        "text": "\/ch 4093550040722443|11|2027|410",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330920,
+    "message": {
+        "message_id": 157,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749253130,
+        "text": "\/ch 376526521366476|12|25|2524",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            },
+            {
+                "offset": 4,
+                "length": 26,
+                "type": "code"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330921,
+    "message": {
+        "message_id": 159,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749253263,
+        "text": "\/ch 4093550013226083 |03| 2029 | 459",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330922,
+    "message": {
+        "message_id": 161,
+        "from": {
+            "id": 7700167064,
+            "is_bot": false,
+            "first_name": "Anival",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 7700167064,
+            "first_name": "Anival",
+            "type": "private"
+        },
+        "date": 1749253354,
+        "text": "\/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330923,
+    "message": {
+        "message_id": 163,
+        "from": {
+            "id": 7700167064,
+            "is_bot": false,
+            "first_name": "Anival",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 7700167064,
+            "first_name": "Anival",
+            "type": "private"
+        },
+        "date": 1749253392,
+        "text": "5110924044166889|11|2026|921",
+        "entities": []
+    }
+}
+{
+    "update_id": 971330924,
+    "message": {
+        "message_id": 164,
+        "from": {
+            "id": 7700167064,
+            "is_bot": false,
+            "first_name": "Anival",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 7700167064,
+            "first_name": "Anival",
+            "type": "private"
+        },
+        "date": 1749253398,
+        "text": "\/ch 5110924044166889|11|2026|921",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330925,
+    "message": {
+        "message_id": 166,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749253494,
+        "text": "\/ch 5110924044166889|11|2026|921",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330926,
+    "message": {
+        "message_id": 168,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749253770,
+        "text": "\/sk 4242424242424242|12|34|567",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330927,
+    "message": {
+        "message_id": 170,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749253828,
+        "text": "\/ch 5110925773414176|08|2033|394",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330928,
+    "message": {
+        "message_id": 172,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749253869,
+        "text": "\/ch 5110925773414176|08|2033|394",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330929,
+    "message": {
+        "message_id": 174,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749253891,
+        "text": "5110928813205950|01|2026|838",
+        "entities": []
+    }
+}
+{
+    "update_id": 971330930,
+    "message": {
+        "message_id": 175,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749253898,
+        "text": "\/ch 5110928813205950|01|2026|838",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330931,
+    "message": {
+        "message_id": 177,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749253931,
+        "text": "\/ch 5110928813205950|01|2026|838",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330932,
+    "message": {
+        "message_id": 179,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749253952,
+        "text": "\/ch 5110928813205950|01|2026|838",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330933,
+    "message": {
+        "message_id": 181,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749253996,
+        "text": "\/ch 5110924044166889|11|2026|921",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330934,
+    "message": {
+        "message_id": 183,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749254022,
+        "text": "\/ch 4093550013226083 |03| 2029 | 459",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330935,
+    "message": {
+        "message_id": 185,
+        "from": {
+            "id": 6240292246,
+            "is_bot": false,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 6240292246,
+            "first_name": "Axl",
+            "last_name": "Gc",
+            "type": "private"
+        },
+        "date": 1749254046,
+        "text": "\/ch 4093550040722443|11|2027|410",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330936,
+    "message": {
+        "message_id": 187,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254069,
+        "text": "\/sk 5110928813205950|01|2026|838",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330937,
+    "message": {
+        "message_id": 189,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254107,
+        "text": "\/sk 4093550013226083|03|29|459",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330938,
+    "message": {
+        "message_id": 191,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254165,
+        "text": "\/ch 5110928813205950|01|2026|838",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330939,
+    "message": {
+        "message_id": 193,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254175,
+        "text": "\/sk 5110928813205950|01|2026|838",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330941,
+    "message": {
+        "message_id": 196,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254322,
+        "text": "\/sch 5110928813205950|01|2026|838",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 4,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330942,
+    "message": {
+        "message_id": 198,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254415,
+        "text": "\/spp 5110928813205950|01|2026|838",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 4,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330943,
+    "message": {
+        "message_id": 200,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254456,
+        "text": "\/au 5110928813205950|01|2026|838",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330944,
+    "message": {
+        "message_id": 202,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254481,
+        "text": "\/mch 5110928813205950|01|2026|838",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 4,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330945,
+    "message": {
+        "message_id": 204,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254521,
+        "text": "\/bin",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 4,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330946,
+    "message": {
+        "message_id": 205,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254527,
+        "text": "\/bin 5110928813205950|01|2026|838",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 4,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330947,
+    "message": {
+        "message_id": 206,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254550,
+        "text": "\/cmds",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 5,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330948,
+    "message": {
+        "message_id": 208,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254556,
+        "text": "\/tools",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
+{
+    "update_id": 971330949,
+    "message": {
+        "message_id": 210,
+        "from": {
+            "id": 5976019153,
+            "is_bot": false,
+            "first_name": "Pedro",
+            "language_code": "es"
+        },
+        "chat": {
+            "id": 5976019153,
+            "first_name": "Pedro",
+            "type": "private"
+        },
+        "date": 1749254563,
+        "text": "\/ip",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 3,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
