@@ -1,66 +1,543 @@
-[2025-06-05 21:00:23] Mensaje recibido desde Telegram
-[2025-06-05 21:01:08] Mensaje recibido desde Telegram
-[2025-06-05 21:01:10] Mensaje recibido desde Telegram
-[2025-06-05 21:01:50] Mensaje recibido desde Telegram
-[2025-06-05 21:07:00] Mensaje recibido desde Telegram
-[2025-06-05 21:07:08] Mensaje recibido desde Telegram
-[2025-06-05 21:08:23] Mensaje recibido desde Telegram
-[2025-06-05 21:12:20] Mensaje recibido desde Telegram
-[2025-06-05 21:15:38] Mensaje recibido desde Telegram
-[2025-06-05 21:38:33] Mensaje recibido desde Telegram
-[2025-06-05 22:32:27] Mensaje recibido desde Telegram
-[2025-06-05 22:32:29] Mensaje recibido desde Telegram
-[2025-06-05 22:33:00] Mensaje recibido desde Telegram
-[2025-06-05 22:33:24] Mensaje recibido desde Telegram
-[2025-06-05 22:42:00] Comando recibido: 
-[2025-06-05 22:42:02] Comando recibido: 
-[2025-06-05 22:42:08] Comando recibido: 
-[2025-06-05 22:42:40] Comando recibido: 34567890123456|12|2025|123
-[2025-06-05 22:43:03] Comando recibido: 567890123456|12|2025|123
-[2025-06-05 22:54:18] Comando recibido: 4020200227944596|12|2024|746
-[2025-06-05 22:55:21] Comando recibido: /sk
-[2025-06-05 22:56:15] Comando recibido: /sk
-[2025-06-05 23:06:20] Comando recibido: /sk
-[2025-06-05 23:10:44] Comando recibido: /sk
-[2025-06-05 23:11:01] Comando recibido: /sk
-[2025-06-05 23:11:14] Comando recibido: /sk
-[2025-06-07 00:58:01] Comando recibido: /sk
-[2025-06-07 00:58:07] Comando recibido: /sk
-[2025-06-07 00:58:23] Comando recibido: 376526521366922|12|25|5298
-[2025-06-07 00:58:39] Comando recibido: /sk
-[2025-06-07 00:59:00] Comando recibido: /sk
-[2025-06-07 01:00:52] Comando recibido: /sk
-[2025-06-07 01:03:16] Comando recibido: /sk
-[2025-06-07 01:20:49] Comando recibido: /ch
-[2025-06-07 01:22:22] Comando recibido: /ch
-[2025-06-07 01:24:00] Comando recibido: /ch
-[2025-06-07 01:37:10] Comando recibido: /ch
-[2025-06-07 01:38:54] Comando recibido: /ch
-[2025-06-07 01:41:07] Comando recibido: /ch
-[2025-06-07 01:42:35] Comando recibido: /start
-[2025-06-07 01:43:12] Comando recibido: 5110924044166889|11|2026|921
-[2025-06-07 01:43:19] Comando recibido: /ch
-[2025-06-07 01:44:58] Comando recibido: /ch
-[2025-06-07 01:49:33] Comando recibido: /sk
-[2025-06-07 01:50:32] Comando recibido: /ch
-[2025-06-07 01:51:14] Comando recibido: /ch
-[2025-06-07 01:51:32] Comando recibido: 5110928813205950|01|2026|838
-[2025-06-07 01:51:42] Comando recibido: /ch
-[2025-06-07 01:52:15] Comando recibido: /ch
-[2025-06-07 01:52:36] Comando recibido: /ch
-[2025-06-07 01:53:20] Comando recibido: /ch
-[2025-06-07 01:53:46] Comando recibido: /ch
-[2025-06-07 01:54:10] Comando recibido: /ch
-[2025-06-07 01:54:32] Comando recibido: /sk
-[2025-06-07 01:55:10] Comando recibido: /sk
-[2025-06-07 01:56:09] Comando recibido: /ch
-[2025-06-07 01:56:17] Comando recibido: /sk
-[2025-06-07 01:58:46] Comando recibido: /sch
-[2025-06-07 02:00:20] Comando recibido: /spp
-[2025-06-07 02:01:00] Comando recibido: /au
-[2025-06-07 02:01:30] Comando recibido: /mch
-[2025-06-07 02:02:02] Comando recibido: /bin
-[2025-06-07 02:02:08] Comando recibido: /bin
-[2025-06-07 02:02:30] Comando recibido: /cmds
-[2025-06-07 02:02:36] Comando recibido: /tools
-[2025-06-07 02:02:47] Comando recibido: /ip
+[2025-06-19 00:51:24] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:51:24] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:51:24] Normalized Path: /bot.php
+[2025-06-19 00:51:24] Update recibido: {"update_id":971331066,"message":{"message_id":409,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287085,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[2025-06-19 00:51:24] Comando recibido: /start
+[2025-06-19 00:51:24] Procesando comando /start para userId: 6240292246
+[2025-06-19 00:51:25] Respuesta de sendChatAction: {"ok":true,"result":true}
+[2025-06-19 00:51:26] Respuesta de sendMessage: {"ok":true,"result":{"message_id":410,"from":{"id":8076521376,"is_bot":true,"first_name":"lopezSniperBot","username":"tetrisaxlgc_bot"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287088,"reply_to_message":{"message_id":409,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287085,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]},"text":"HECKER CHK \u26a1 - Estado - 200 OK\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\nHola Axl.\nEstoy en desarrollo y algunas funciones no est\u00e1n disponibles.\nUsa /cmds para ver los comandos disponibles.\nTu ID de chat es: 6240292246\nTu ID de Telegram es: 6240292246\nTu estado es: Premium","entities":[{"offset":0,"length":121,"type":"bold"},{"offset":121,"length":5,"type":"bot_command"},{"offset":121,"length":5,"type":"bold"},{"offset":126,"length":119,"type":"bold"}]}}
+[2025-06-19 00:51:30] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:51:30] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:51:30] Normalized Path: /bot.php
+[2025-06-19 00:51:30] Update recibido: {"update_id":971331067,"message":{"message_id":411,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287092,"text":"\/tools","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[2025-06-19 00:51:30] Comando recibido: /tools
+[2025-06-19 00:51:30] Procesando comando /tools para userId: 6240292246
+[2025-06-19 00:51:31] Respuesta de sendChatAction: {"ok":true,"result":true}
+[2025-06-19 00:51:32] Respuesta de sendMessage: {"ok":true,"result":{"message_id":412,"from":{"id":8076521376,"is_bot":true,"first_name":"lopezSniperBot","username":"tetrisaxlgc_bot"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287094,"reply_to_message":{"message_id":411,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287092,"text":"/tools","entities":[{"offset":0,"length":6,"type":"bot_command"}]},"text":"HECKER CHK \u26a1\ufe0f - Estado - 200 OK\n[\u03df] TOTAL DE HERRAMIENTAS - 5\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] Consulta de BIN - /bin\n[\u03df] Consulta de IBAN - /iban\n[\u03df] Estado de cuenta - /status\n[\u03df] Consulta de IP - /ip\n[\u03df] Validaci\u00f3n Luhn - /luhn\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\nUsa /cmds para ver comandos de verificaci\u00f3n.","entities":[{"offset":0,"length":98,"type":"bold"},{"offset":98,"length":4,"type":"bot_command"},{"offset":98,"length":4,"type":"bold"},{"offset":102,"length":24,"type":"bold"},{"offset":126,"length":5,"type":"bot_command"},{"offset":126,"length":5,"type":"bold"},{"offset":131,"length":24,"type":"bold"},{"offset":155,"length":7,"type":"bot_command"},{"offset":155,"length":7,"type":"bold"},{"offset":162,"length":22,"type":"bold"},{"offset":184,"length":3,"type":"bot_command"},{"offset":184,"length":3,"type":"bold"},{"offset":187,"length":23,"type":"bold"},{"offset":210,"length":5,"type":"bot_command"},{"offset":210,"length":5,"type":"bold"},{"offset":215,"length":19,"type":"bold"},{"offset":234,"length":5,"type":"bot_command"},{"offset":234,"length":5,"type":"bold"},{"offset":239,"length":35,"type":"bold"}]}}
+[2025-06-19 00:51:35] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:51:35] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:51:35] Normalized Path: /bot.php
+[2025-06-19 00:51:35] Update recibido: {"update_id":971331068,"message":{"message_id":413,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287097,"text":"\/luhn","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+[2025-06-19 00:51:35] Comando recibido: /luhn
+[2025-06-19 00:51:35] Procesando comando /luhn para userId: 6240292246
+[2025-06-19 00:51:36] Respuesta de sendChatAction: {"ok":true,"result":true}
+[2025-06-19 00:51:37] Respuesta de sendMessage: {"ok":true,"result":{"message_id":414,"from":{"id":8076521376,"is_bot":true,"first_name":"lopezSniperBot","username":"tetrisaxlgc_bot"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287099,"reply_to_message":{"message_id":413,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287097,"text":"/luhn","entities":[{"offset":0,"length":5,"type":"bot_command"}]},"text":"HECKER CHK \u26a1\ufe0f - Estado - OK\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] Debes proporcionar un n\u00famero de tarjeta v\u00e1lido (12-19 d\u00edgitos) o en formato n\u00famero|mes|a\u00f1o|cvv (ej. 4093550040722443|11|27|410).","entities":[{"offset":0,"length":146,"type":"bold"},{"offset":146,"length":16,"type":"bold"},{"offset":162,"length":12,"type":"bold"}]}}
+[2025-06-19 00:52:13] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:52:13] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:52:13] Normalized Path: /bot.php
+[2025-06-19 00:52:13] Update recibido: {"update_id":971331069,"message":{"message_id":415,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287134,"text":"\/bin 4093550040722443|11|27|410","entities":[{"offset":0,"length":4,"type":"bot_command"}]}}
+[2025-06-19 00:52:13] Comando recibido: /bin
+[2025-06-19 00:52:13] Procesando comando /bin para userId: 6240292246
+[2025-06-19 00:52:14] Respuesta de sendChatAction: {"ok":true,"result":true}
+[2025-06-19 00:52:16] Respuesta de sendMessage: {"ok":true,"result":{"message_id":416,"from":{"id":8076521376,"is_bot":true,"first_name":"lopezSniperBot","username":"tetrisaxlgc_bot"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287137,"reply_to_message":{"message_id":415,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287134,"text":"/bin 4093550040722443|11|27|410","entities":[{"offset":0,"length":4,"type":"bot_command"}]},"text":"HECKER CHK \u26a1\ufe0f - Estado - OK\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] CONSULTA: BIN\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] BIN: 409355\n[\u03df] TARJETA: 409355xxxx2443\n[\u03df] PA\u00cdS: DESCONOCIDO \ud83c\udde8\ud83c\uddf4\n[\u03df] MARCA: VISA CLASSIC\n[\u03df] NIVEL: VISA\n[\u03df] TIPO: DEBIT\n[\u03df] BANCO: Bancolombia S.A.- Nequi\n[\u03df] BIN CON ERROR: No\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] TIEMPO: 0.92040801048279 s\n[\u03df] Verificado por: @N/A\n[\u03df] ID de usuario: 6240292246\n[\u03df] Premium activado: \u2705","entities":[{"offset":0,"length":382,"type":"bold"}]}}
+[2025-06-19 00:52:41] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:52:41] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:52:41] Normalized Path: /bot.php
+[2025-06-19 00:52:41] Update recibido: {"update_id":971331070,"message":{"message_id":417,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287162,"text":"\/bin 409355","entities":[{"offset":0,"length":4,"type":"bot_command"}]}}
+[2025-06-19 00:52:41] Comando recibido: /bin
+[2025-06-19 00:52:41] Procesando comando /bin para userId: 6240292246
+[2025-06-19 00:52:42] Respuesta de sendChatAction: {"ok":true,"result":true}
+[2025-06-19 00:52:42] Respuesta inválida de binlist.net para BIN 409355: HTTP 429, Respuesta: vacía
+[2025-06-19 00:52:43] Respuesta inválida de binlookup.io para BIN 409355: HTTP 521, Respuesta: error code: 521
+[2025-06-19 00:52:44] Respuesta inválida de bincheck.io para BIN 409355: HTTP 404, Respuesta: <!DOCTYPE html>
+<html lang="en" class="scroll-smooth hover:scroll-auto" color-theme="">
+   <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="csrf-token" content="b94XjSuIobGdHNmBSOcjB8nV3Ew7pYVtii6gV4gi">
+    <title>The Page not found - BIN Check</title>
+    <meta name="description" content="">
+    <link rel="icon" href="https://bincheck.io/assets/favicon.svg" sizes="any" type="image/svg+xml">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="1 days">
+    <meta name="author" content="bincheck.io">
+    <meta name="robots" content="noindex, nofollow">
+    <link href="https://bincheck.io/assets/css/app.css" rel="stylesheet">
+    <script src="/assets/js/app.js?id=87c45b803481c78169f406fd11fef818" defer></script>
+       </head>
+    <body class="max-h-screen dark:text-gray-200 dark:bg-gray-900" dir="auto" >        
+        <section class="relative w-full h-auto h-screen bg-white bg-no-repeat bg-cover dark:text-gray-200 dark:bg-gray-900 dark:bg-blend-multiply" style="background-image:url('https://bincheck.io/assets/svg/error-404.svg')">
+            <div class="relative px-6 mx-auto max-w-7xl">                    
+                        <div class="relative w-full px-8 mb-12 lg:w-7/12 lg:mb-0">
+                            <div class="relative py-14 md:py-18 xl:py-20">
+                                <a class="flex w-full mb-3 text-3xl font-bold lg:justify-start font-heading" href="https://bincheck.io">
+                                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" class="h-16 w-16 fill-blue-600 dark:fill-white" viewBox="0 0 256 256"><defs></defs>aria-label="[title + description]"role=img&gt;<title>[Menu]</title><desc>[Mobile Main Menu]</desc><path class="cls-1" d="M250.69,225.64c-4.4-5.22-7.63-9.41-10.22-16.9-5.36-20.23.91-43.41.91-43.41l0,0a126.75,126.75,0,0,0,6.38-39.74C247.72,56.23,192.26,0,123.86,0S0,56.23,0,125.61c0,53.68,33.23,99.48,80,117.45h0l.82.32a121.34,121.34,0,0,0,19,5.44c25.31,5.79,74.1,12.36,142,.81C258.66,246.7,259,235.49,250.69,225.64ZM166.51,169a7.82,7.82,0,0,1-11.16.35l-16.6-15.82a34,34,0,0,1-16,4C103.61,157.51,88,141.7,88,122.26S103.61,87,122.78,87s34.76,15.81,34.76,35.25A35.28,35.28,0,0,1,150.8,143l15.37,14.65A8.1,8.1,0,0,1,166.51,169Z"></path><path class="cls-1" d="M122.78,101a21.22,21.22,0,1,0,20.92,21.22A21.1,21.1,0,0,0,122.78,101Z"></path></svg>
+                                </a>
+                                <div class="flex flex-col mb-6 lg:items-start">
+                                    <span class="mb-6 ml-1 text-gray-900 dark:text-gray-100">Bincheck.io</span>
+                                    <h3 class="text-2xl font-bold">This page doesn&#039;t exist!</h3>
+                                </div>
+                                    <div class="relative z-20 flex flex-col items-start max-w-md space-y-6">
+                                        <h1 class="font-extrabold text-9xl">404</h1>
+                                        <h1 class="text-3xl font-extrabold">Looks like you lost in nowhere!.</h1>
+                                        <p class="font-medium text-gray-900 dark:text-gray-200">It looks like that you&#039;ve reached a URL that doesn&#039;t exist. Please return to home page and use the search bar below to find your way back to thae page you&#039;re looking for.</p>
+                                        <a href="https://bincheck.io" class="inline-block w-full px-5 py-4 font-bold text-center text-white bg-blue-600 rounded hover:bg-blue-700 md:w-auto">Go to Home Page</a>
+                                    </div>
+                            </div>
+                    </div>
+                 <p class="relative px-8 mb-12 text-sm text-gray-500 lg:bottom-10 xl:bottom-3">&copy; BinCheck <span id="year"><script> document.getElementById("year").innerHTML = new Date().getFullYear();</script>. All rights reserved.</p>
+                </div>
+        </section>
+
+    <script>
+    function updateTheme() {
+        if (!('theme' in localStorage)) {
+            localStorage.theme = 'light';
+        }
+
+        switch (localStorage.theme) {
+            case 'system':
+                if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                    document.documentElement.classList.add('dark');
+                } else {
+                    document.documentElement.classList.remove('dark');
+                }
+                document.documentElement.setAttribute('color-theme', 'system');
+                themeToggleSystemIcon.classList.remove('hidden');
+                break;
+
+            case 'dark':
+                document.documentElement.classList.add('dark');
+                document.documentElement.setAttribute('color-theme', 'dark');
+                themeToggleLightIcon.classList.remove('hidden');
+                break;
+
+            case 'light':
+                document.documentElement.classList.remove('dark');
+                document.documentElement.setAttribute('color-theme', 'light');
+                themeToggleDarkIcon.classList.remove('hidden');
+                break;
+        }
+    }
+
+    updateTheme();
+        // themeToggleLightIcon.classList.add('hidden');
+        // themeToggleSystemIcon.classList.add('hidden');
+        // themeToggleDarkIcon.classList.add('hidden');
+
+
+    window.toDarkMode = function() {
+        localStorage.theme = "dark", window.updateTheme();
+        themeToggleLightIcon.classList.remove('hidden');
+        themeToggleDarkIcon.classList.add('hidden');
+        themeToggleSystemIcon.classList.add('hidden');
+
+    }, window.toLightMode = function() {
+        localStorage.theme = "light", window.updateTheme();
+        themeToggleLightIcon.classList.add('hidden');
+        themeToggleDarkIcon.classList.add('hidden');
+        themeToggleSystemIcon.classList.remove('hidden');
+    }, window.toSystemMode = function() {
+        localStorage.theme = "system", window.updateTheme();
+        themeToggleSystemIcon.classList.add('hidden');
+        themeToggleDarkIcon.classList.remove('hidden');
+    }
+</script>
+    </body>
+</html>
+
+[2025-06-19 00:52:45] Respuesta de sendMessage: {"ok":true,"result":{"message_id":418,"from":{"id":8076521376,"is_bot":true,"first_name":"lopezSniperBot","username":"tetrisaxlgc_bot"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287167,"reply_to_message":{"message_id":417,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287162,"text":"/bin 409355","entities":[{"offset":0,"length":4,"type":"bot_command"}]},"text":"HECKER CHK \u26a1\ufe0f - Estado - OK\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] CONSULTA: BIN\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] BIN: 409355\n[\u03df] TARJETA: 409355\n[\u03df] PA\u00cdS: Desconocido \n[\u03df] MARCA: Desconocido\n[\u03df] NIVEL: Desconocido\n[\u03df] TIPO: Desconocido\n[\u03df] BANCO: Desconocido\n[\u03df] BIN CON ERROR: No\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] TIEMPO: 2.4020259380341 s\n[\u03df] Verificado por: @N/A\n[\u03df] ID de usuario: 6240292246\n[\u03df] Premium activado: \u2705","entities":[{"offset":0,"length":369,"type":"bold"}]}}
+[2025-06-19 00:52:57] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:52:57] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:52:57] Normalized Path: /bot.php
+[2025-06-19 00:52:57] Update recibido: {"update_id":971331071,"message":{"message_id":419,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287178,"text":"\/bin 4093550040722443|11|27|410","entities":[{"offset":0,"length":4,"type":"bot_command"}]}}
+[2025-06-19 00:52:57] Comando recibido: /bin
+[2025-06-19 00:52:57] Procesando comando /bin para userId: 6240292246
+[2025-06-19 00:52:58] Respuesta de sendChatAction: {"ok":true,"result":true}
+[2025-06-19 00:52:58] Respuesta inválida de binlist.net para BIN 409355: HTTP 429, Respuesta: vacía
+[2025-06-19 00:52:59] Respuesta inválida de binlookup.io para BIN 409355: HTTP 521, Respuesta: error code: 521
+[2025-06-19 00:52:59] Respuesta inválida de bincheck.io para BIN 409355: HTTP 404, Respuesta: <!DOCTYPE html>
+<html lang="en" class="scroll-smooth hover:scroll-auto" color-theme="">
+   <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="csrf-token" content="GMWPcM4B5uqfd2T28FbKsMDJvX5zIBafpOQKYCys">
+    <title>The Page not found - BIN Check</title>
+    <meta name="description" content="">
+    <link rel="icon" href="https://bincheck.io/assets/favicon.svg" sizes="any" type="image/svg+xml">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="1 days">
+    <meta name="author" content="bincheck.io">
+    <meta name="robots" content="noindex, nofollow">
+    <link href="https://bincheck.io/assets/css/app.css" rel="stylesheet">
+    <script src="/assets/js/app.js?id=87c45b803481c78169f406fd11fef818" defer></script>
+       </head>
+    <body class="max-h-screen dark:text-gray-200 dark:bg-gray-900" dir="auto" >        
+        <section class="relative w-full h-auto h-screen bg-white bg-no-repeat bg-cover dark:text-gray-200 dark:bg-gray-900 dark:bg-blend-multiply" style="background-image:url('https://bincheck.io/assets/svg/error-404.svg')">
+            <div class="relative px-6 mx-auto max-w-7xl">                    
+                        <div class="relative w-full px-8 mb-12 lg:w-7/12 lg:mb-0">
+                            <div class="relative py-14 md:py-18 xl:py-20">
+                                <a class="flex w-full mb-3 text-3xl font-bold lg:justify-start font-heading" href="https://bincheck.io">
+                                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" class="h-16 w-16 fill-blue-600 dark:fill-white" viewBox="0 0 256 256"><defs></defs>aria-label="[title + description]"role=img&gt;<title>[Menu]</title><desc>[Mobile Main Menu]</desc><path class="cls-1" d="M250.69,225.64c-4.4-5.22-7.63-9.41-10.22-16.9-5.36-20.23.91-43.41.91-43.41l0,0a126.75,126.75,0,0,0,6.38-39.74C247.72,56.23,192.26,0,123.86,0S0,56.23,0,125.61c0,53.68,33.23,99.48,80,117.45h0l.82.32a121.34,121.34,0,0,0,19,5.44c25.31,5.79,74.1,12.36,142,.81C258.66,246.7,259,235.49,250.69,225.64ZM166.51,169a7.82,7.82,0,0,1-11.16.35l-16.6-15.82a34,34,0,0,1-16,4C103.61,157.51,88,141.7,88,122.26S103.61,87,122.78,87s34.76,15.81,34.76,35.25A35.28,35.28,0,0,1,150.8,143l15.37,14.65A8.1,8.1,0,0,1,166.51,169Z"></path><path class="cls-1" d="M122.78,101a21.22,21.22,0,1,0,20.92,21.22A21.1,21.1,0,0,0,122.78,101Z"></path></svg>
+                                </a>
+                                <div class="flex flex-col mb-6 lg:items-start">
+                                    <span class="mb-6 ml-1 text-gray-900 dark:text-gray-100">Bincheck.io</span>
+                                    <h3 class="text-2xl font-bold">This page doesn&#039;t exist!</h3>
+                                </div>
+                                    <div class="relative z-20 flex flex-col items-start max-w-md space-y-6">
+                                        <h1 class="font-extrabold text-9xl">404</h1>
+                                        <h1 class="text-3xl font-extrabold">Looks like you lost in nowhere!.</h1>
+                                        <p class="font-medium text-gray-900 dark:text-gray-200">It looks like that you&#039;ve reached a URL that doesn&#039;t exist. Please return to home page and use the search bar below to find your way back to thae page you&#039;re looking for.</p>
+                                        <a href="https://bincheck.io" class="inline-block w-full px-5 py-4 font-bold text-center text-white bg-blue-600 rounded hover:bg-blue-700 md:w-auto">Go to Home Page</a>
+                                    </div>
+                            </div>
+                    </div>
+                 <p class="relative px-8 mb-12 text-sm text-gray-500 lg:bottom-10 xl:bottom-3">&copy; BinCheck <span id="year"><script> document.getElementById("year").innerHTML = new Date().getFullYear();</script>. All rights reserved.</p>
+                </div>
+        </section>
+
+    <script>
+    function updateTheme() {
+        if (!('theme' in localStorage)) {
+            localStorage.theme = 'light';
+        }
+
+        switch (localStorage.theme) {
+            case 'system':
+                if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                    document.documentElement.classList.add('dark');
+                } else {
+                    document.documentElement.classList.remove('dark');
+                }
+                document.documentElement.setAttribute('color-theme', 'system');
+                themeToggleSystemIcon.classList.remove('hidden');
+                break;
+
+            case 'dark':
+                document.documentElement.classList.add('dark');
+                document.documentElement.setAttribute('color-theme', 'dark');
+                themeToggleLightIcon.classList.remove('hidden');
+                break;
+
+            case 'light':
+                document.documentElement.classList.remove('dark');
+                document.documentElement.setAttribute('color-theme', 'light');
+                themeToggleDarkIcon.classList.remove('hidden');
+                break;
+        }
+    }
+
+    updateTheme();
+        // themeToggleLightIcon.classList.add('hidden');
+        // themeToggleSystemIcon.classList.add('hidden');
+        // themeToggleDarkIcon.classList.add('hidden');
+
+
+    window.toDarkMode = function() {
+        localStorage.theme = "dark", window.updateTheme();
+        themeToggleLightIcon.classList.remove('hidden');
+        themeToggleDarkIcon.classList.add('hidden');
+        themeToggleSystemIcon.classList.add('hidden');
+
+    }, window.toLightMode = function() {
+        localStorage.theme = "light", window.updateTheme();
+        themeToggleLightIcon.classList.add('hidden');
+        themeToggleDarkIcon.classList.add('hidden');
+        themeToggleSystemIcon.classList.remove('hidden');
+    }, window.toSystemMode = function() {
+        localStorage.theme = "system", window.updateTheme();
+        themeToggleSystemIcon.classList.add('hidden');
+        themeToggleDarkIcon.classList.remove('hidden');
+    }
+</script>
+    </body>
+</html>
+
+[2025-06-19 00:53:00] Respuesta de sendMessage: {"ok":true,"result":{"message_id":420,"from":{"id":8076521376,"is_bot":true,"first_name":"lopezSniperBot","username":"tetrisaxlgc_bot"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287182,"reply_to_message":{"message_id":419,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287178,"text":"/bin 4093550040722443|11|27|410","entities":[{"offset":0,"length":4,"type":"bot_command"}]},"text":"HECKER CHK \u26a1\ufe0f - Estado - OK\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] CONSULTA: BIN\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] BIN: 409355\n[\u03df] TARJETA: 409355xxxx2443\n[\u03df] PA\u00cdS: Desconocido \n[\u03df] MARCA: Desconocido\n[\u03df] NIVEL: Desconocido\n[\u03df] TIPO: Desconocido\n[\u03df] BANCO: Desconocido\n[\u03df] BIN CON ERROR: No\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] TIEMPO: 1.8016848564148 s\n[\u03df] Verificado por: @N/A\n[\u03df] ID de usuario: 6240292246\n[\u03df] Premium activado: \u2705","entities":[{"offset":0,"length":377,"type":"bold"}]}}
+[2025-06-19 00:53:03] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:53:03] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:53:03] Normalized Path: /bot.php
+[2025-06-19 00:53:03] Update recibido: {"update_id":971331072,"message":{"message_id":421,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287185,"text":"\/bin 4093550040722443|11|27|410","entities":[{"offset":0,"length":4,"type":"bot_command"}]}}
+[2025-06-19 00:53:03] Comando recibido: /bin
+[2025-06-19 00:53:03] Procesando comando /bin para userId: 6240292246
+[2025-06-19 00:53:04] Respuesta de sendChatAction: {"ok":true,"result":true}
+[2025-06-19 00:53:05] Respuesta inválida de binlist.net para BIN 409355: HTTP 429, Respuesta: vacía
+[2025-06-19 00:53:05] Respuesta inválida de binlookup.io para BIN 409355: HTTP 521, Respuesta: error code: 521
+[2025-06-19 00:53:06] Respuesta inválida de bincheck.io para BIN 409355: HTTP 404, Respuesta: <!DOCTYPE html>
+<html lang="en" class="scroll-smooth hover:scroll-auto" color-theme="">
+   <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="csrf-token" content="hB8j7cqjtR6XPW3hX451peAHSgx6nKO8RDzK2FAH">
+    <title>The Page not found - BIN Check</title>
+    <meta name="description" content="">
+    <link rel="icon" href="https://bincheck.io/assets/favicon.svg" sizes="any" type="image/svg+xml">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="1 days">
+    <meta name="author" content="bincheck.io">
+    <meta name="robots" content="noindex, nofollow">
+    <link href="https://bincheck.io/assets/css/app.css" rel="stylesheet">
+    <script src="/assets/js/app.js?id=87c45b803481c78169f406fd11fef818" defer></script>
+       </head>
+    <body class="max-h-screen dark:text-gray-200 dark:bg-gray-900" dir="auto" >        
+        <section class="relative w-full h-auto h-screen bg-white bg-no-repeat bg-cover dark:text-gray-200 dark:bg-gray-900 dark:bg-blend-multiply" style="background-image:url('https://bincheck.io/assets/svg/error-404.svg')">
+            <div class="relative px-6 mx-auto max-w-7xl">                    
+                        <div class="relative w-full px-8 mb-12 lg:w-7/12 lg:mb-0">
+                            <div class="relative py-14 md:py-18 xl:py-20">
+                                <a class="flex w-full mb-3 text-3xl font-bold lg:justify-start font-heading" href="https://bincheck.io">
+                                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" class="h-16 w-16 fill-blue-600 dark:fill-white" viewBox="0 0 256 256"><defs></defs>aria-label="[title + description]"role=img&gt;<title>[Menu]</title><desc>[Mobile Main Menu]</desc><path class="cls-1" d="M250.69,225.64c-4.4-5.22-7.63-9.41-10.22-16.9-5.36-20.23.91-43.41.91-43.41l0,0a126.75,126.75,0,0,0,6.38-39.74C247.72,56.23,192.26,0,123.86,0S0,56.23,0,125.61c0,53.68,33.23,99.48,80,117.45h0l.82.32a121.34,121.34,0,0,0,19,5.44c25.31,5.79,74.1,12.36,142,.81C258.66,246.7,259,235.49,250.69,225.64ZM166.51,169a7.82,7.82,0,0,1-11.16.35l-16.6-15.82a34,34,0,0,1-16,4C103.61,157.51,88,141.7,88,122.26S103.61,87,122.78,87s34.76,15.81,34.76,35.25A35.28,35.28,0,0,1,150.8,143l15.37,14.65A8.1,8.1,0,0,1,166.51,169Z"></path><path class="cls-1" d="M122.78,101a21.22,21.22,0,1,0,20.92,21.22A21.1,21.1,0,0,0,122.78,101Z"></path></svg>
+                                </a>
+                                <div class="flex flex-col mb-6 lg:items-start">
+                                    <span class="mb-6 ml-1 text-gray-900 dark:text-gray-100">Bincheck.io</span>
+                                    <h3 class="text-2xl font-bold">This page doesn&#039;t exist!</h3>
+                                </div>
+                                    <div class="relative z-20 flex flex-col items-start max-w-md space-y-6">
+                                        <h1 class="font-extrabold text-9xl">404</h1>
+                                        <h1 class="text-3xl font-extrabold">Looks like you lost in nowhere!.</h1>
+                                        <p class="font-medium text-gray-900 dark:text-gray-200">It looks like that you&#039;ve reached a URL that doesn&#039;t exist. Please return to home page and use the search bar below to find your way back to thae page you&#039;re looking for.</p>
+                                        <a href="https://bincheck.io" class="inline-block w-full px-5 py-4 font-bold text-center text-white bg-blue-600 rounded hover:bg-blue-700 md:w-auto">Go to Home Page</a>
+                                    </div>
+                            </div>
+                    </div>
+                 <p class="relative px-8 mb-12 text-sm text-gray-500 lg:bottom-10 xl:bottom-3">&copy; BinCheck <span id="year"><script> document.getElementById("year").innerHTML = new Date().getFullYear();</script>. All rights reserved.</p>
+                </div>
+        </section>
+
+    <script>
+    function updateTheme() {
+        if (!('theme' in localStorage)) {
+            localStorage.theme = 'light';
+        }
+
+        switch (localStorage.theme) {
+            case 'system':
+                if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                    document.documentElement.classList.add('dark');
+                } else {
+                    document.documentElement.classList.remove('dark');
+                }
+                document.documentElement.setAttribute('color-theme', 'system');
+                themeToggleSystemIcon.classList.remove('hidden');
+                break;
+
+            case 'dark':
+                document.documentElement.classList.add('dark');
+                document.documentElement.setAttribute('color-theme', 'dark');
+                themeToggleLightIcon.classList.remove('hidden');
+                break;
+
+            case 'light':
+                document.documentElement.classList.remove('dark');
+                document.documentElement.setAttribute('color-theme', 'light');
+                themeToggleDarkIcon.classList.remove('hidden');
+                break;
+        }
+    }
+
+    updateTheme();
+        // themeToggleLightIcon.classList.add('hidden');
+        // themeToggleSystemIcon.classList.add('hidden');
+        // themeToggleDarkIcon.classList.add('hidden');
+
+
+    window.toDarkMode = function() {
+        localStorage.theme = "dark", window.updateTheme();
+        themeToggleLightIcon.classList.remove('hidden');
+        themeToggleDarkIcon.classList.add('hidden');
+        themeToggleSystemIcon.classList.add('hidden');
+
+    }, window.toLightMode = function() {
+        localStorage.theme = "light", window.updateTheme();
+        themeToggleLightIcon.classList.add('hidden');
+        themeToggleDarkIcon.classList.add('hidden');
+        themeToggleSystemIcon.classList.remove('hidden');
+    }, window.toSystemMode = function() {
+        localStorage.theme = "system", window.updateTheme();
+        themeToggleSystemIcon.classList.add('hidden');
+        themeToggleDarkIcon.classList.remove('hidden');
+    }
+</script>
+    </body>
+</html>
+
+[2025-06-19 00:53:07] Respuesta de sendMessage: {"ok":true,"result":{"message_id":422,"from":{"id":8076521376,"is_bot":true,"first_name":"lopezSniperBot","username":"tetrisaxlgc_bot"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287189,"reply_to_message":{"message_id":421,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287185,"text":"/bin 4093550040722443|11|27|410","entities":[{"offset":0,"length":4,"type":"bot_command"}]},"text":"HECKER CHK \u26a1\ufe0f - Estado - OK\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] CONSULTA: BIN\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] BIN: 409355\n[\u03df] TARJETA: 409355xxxx2443\n[\u03df] PA\u00cdS: Desconocido \n[\u03df] MARCA: Desconocido\n[\u03df] NIVEL: Desconocido\n[\u03df] TIPO: Desconocido\n[\u03df] BANCO: Desconocido\n[\u03df] BIN CON ERROR: No\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] TIEMPO: 1.769348859787 s\n[\u03df] Verificado por: @N/A\n[\u03df] ID de usuario: 6240292246\n[\u03df] Premium activado: \u2705","entities":[{"offset":0,"length":376,"type":"bold"}]}}
+[2025-06-19 00:53:15] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:53:15] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:53:15] Normalized Path: /bot.php
+[2025-06-19 00:53:15] Update recibido: {"update_id":971331073,"message":{"message_id":423,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287197,"text":"\/luhn \/bin 4093550040722443|11|27|410","entities":[{"offset":0,"length":5,"type":"bot_command"},{"offset":6,"length":4,"type":"bot_command"}]}}
+[2025-06-19 00:53:15] Comando recibido: /luhn
+[2025-06-19 00:53:15] Procesando comando /luhn para userId: 6240292246
+[2025-06-19 00:53:16] Respuesta de sendChatAction: {"ok":true,"result":true}
+[2025-06-19 00:53:17] Respuesta de sendMessage: {"ok":true,"result":{"message_id":424,"from":{"id":8076521376,"is_bot":true,"first_name":"lopezSniperBot","username":"tetrisaxlgc_bot"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287199,"reply_to_message":{"message_id":423,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287197,"text":"/luhn /bin 4093550040722443|11|27|410","entities":[{"offset":0,"length":5,"type":"bot_command"},{"offset":6,"length":4,"type":"bot_command"}]},"text":"HECKER CHK \u26a1\ufe0f - Estado - OK\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] Debes proporcionar un n\u00famero de tarjeta v\u00e1lido (12-19 d\u00edgitos) o en formato n\u00famero|mes|a\u00f1o|cvv (ej. 4093550040722443|11|27|410).","entities":[{"offset":0,"length":146,"type":"bold"},{"offset":146,"length":16,"type":"bold"},{"offset":162,"length":12,"type":"bold"}]}}
+[2025-06-19 00:53:27] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:53:27] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:53:27] Normalized Path: /bot.php
+[2025-06-19 00:53:27] Update recibido: {"update_id":971331074,"message":{"message_id":425,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287208,"text":"\/luhn 4093550040722443|11|27|410","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+[2025-06-19 00:53:27] Comando recibido: /luhn
+[2025-06-19 00:53:27] Procesando comando /luhn para userId: 6240292246
+[2025-06-19 00:53:28] Respuesta de sendChatAction: {"ok":true,"result":true}
+[2025-06-19 00:53:28] Validación Luhn para tarjeta 409355xxxx2443: Válido: SÍ
+[2025-06-19 00:53:29] Respuesta de sendMessage: {"ok":true,"result":{"message_id":426,"from":{"id":8076521376,"is_bot":true,"first_name":"lopezSniperBot","username":"tetrisaxlgc_bot"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287211,"reply_to_message":{"message_id":425,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287208,"text":"/luhn 4093550040722443|11|27|410","entities":[{"offset":0,"length":5,"type":"bot_command"}]},"text":"HECKER CHK \u26a1\ufe0f - Estado - OK\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] CONSULTA: VALIDACI\u00d3N LUHN\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] TARJETA: 409355xxxx2443\n[\u03df] V\u00c1LIDO: S\u00cd\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] TIEMPO: 0.00025105476379395 s\n[\u03df] Verificado por: @N/A\n[\u03df] ID de usuario: 6240292246\n[\u03df] Premium activado: \u2705","entities":[{"offset":0,"length":256,"type":"bold"}]}}
+[2025-06-19 00:53:50] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:53:50] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:53:50] Normalized Path: /bot.php
+[2025-06-19 00:53:50] Update recibido: {"update_id":971331075,"message":{"message_id":427,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287231,"text":"\/ch","entities":[{"offset":0,"length":3,"type":"bot_command"}]}}
+[2025-06-19 00:53:50] Comando recibido: /ch
+[2025-06-19 00:53:50] Procesando comando /ch para userId: 6240292246
+[2025-06-19 00:53:51] Respuesta de sendChatAction: {"ok":true,"result":true}
+[2025-06-19 00:53:51] CardInput recibido: 
+[2025-06-19 00:53:51] Sesiones guardadas en sessions.json
+[2025-06-19 00:53:51] Sesión creada para formId: 4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:53:51] URL del formulario generada: https://4861-191-156-9-61.ngrok-free.app/Hecker-CHK-main/form/4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:53:52] Respuesta de sendMessage: {"ok":true,"result":{"message_id":428,"from":{"id":8076521376,"is_bot":true,"first_name":"lopezSniperBot","username":"tetrisaxlgc_bot"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287234,"reply_to_message":{"message_id":427,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287231,"text":"/ch","entities":[{"offset":0,"length":3,"type":"bot_command"}]},"text":"HECKER CHK \u26a1\ufe0f - Estado - OK\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] Abre este enlace para ingresar los detalles de tu tarjeta:\nhttps://4861-191-156-9-61.ngrok-free.app/Hecker-CHK-main/form/4982d7fe31f76489ad89dcaf747b9aac","entities":[{"offset":0,"length":105,"type":"bold"},{"offset":105,"length":94,"type":"text_link","url":"https://4861-191-156-9-61.ngrok-free.app/Hecker-CHK-main/form/4982d7fe31f76489ad89dcaf747b9aac"},{"offset":105,"length":94,"type":"bold"}],"link_preview_options":{"url":"https://4861-191-156-9-61.ngrok-free.app/Hecker-CHK-main/form/4982d7fe31f76489ad89dcaf747b9aac"}}}
+[2025-06-19 00:53:52] Script iniciado, REQUEST_URI: /Hecker-CHK-main/form/4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:53:52] Path procesado: /Hecker-CHK-main/form/4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:53:52] Normalized Path: /form/4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:53:52] Ruta dinámica detectada: /form/4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:53:52] No se recibió update
+[2025-06-19 00:53:52] Comando recibido: 
+[2025-06-19 00:53:52] Manejando formulario para formId: 4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:53:55] Script iniciado, REQUEST_URI: /Hecker-CHK-main/form/4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:53:55] Path procesado: /Hecker-CHK-main/form/4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:53:55] Normalized Path: /form/4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:53:55] Ruta dinámica detectada: /form/4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:53:55] No se recibió update
+[2025-06-19 00:53:55] Comando recibido: 
+[2025-06-19 00:53:55] Manejando formulario para formId: 4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:53:55] Script iniciado, REQUEST_URI: /Hecker-CHK-main/form.js
+[2025-06-19 00:53:55] Path procesado: /Hecker-CHK-main/form.js
+[2025-06-19 00:53:55] Normalized Path: /form.js
+[2025-06-19 00:53:55] Ruta dinámica detectada: /form.js
+[2025-06-19 00:53:55] No se recibió update
+[2025-06-19 00:53:55] Comando recibido: 
+[2025-06-19 00:53:55] Sirviendo form.js
+[2025-06-19 00:54:13] Script iniciado, REQUEST_URI: /Hecker-CHK-main/submit-token
+[2025-06-19 00:54:13] Path procesado: /Hecker-CHK-main/submit-token
+[2025-06-19 00:54:13] Normalized Path: /submit-token
+[2025-06-19 00:54:13] Ruta dinámica detectada: /submit-token
+[2025-06-19 00:54:13] No se recibió update
+[2025-06-19 00:54:13] Comando recibido: 
+[2025-06-19 00:54:13] Recibiendo token para formId: 4982d7fe31f76489ad89dcaf747b9aac, token: tok_1RbUrz4C8BqviDNnia4HyH2N
+[2025-06-19 00:54:13] Procesando token para formId: 4982d7fe31f76489ad89dcaf747b9aac, token: tok_1RbUrz4C8BqviDNnia4HyH2N
+[2025-06-19 00:54:15] Respuesta de sendChatAction: {"ok":true,"result":true}
+[2025-06-19 00:54:18] Mensaje enviado, message_id: 429
+[2025-06-19 00:54:19] Error de Stripe: card_declined - Your card was declined. Your request used a real card while testing. For a list of valid test cards, visit: https://stripe.com/docs/testing.
+[2025-06-19 00:54:19] Respuesta inválida de binlist.net para BIN xxxxxx: HTTP 429, Respuesta: vacía
+[2025-06-19 00:54:20] Respuesta inválida de binlookup.io para BIN xxxxxx: HTTP 521, Respuesta: error code: 521
+[2025-06-19 00:54:21] Respuesta inválida de bincheck.io para BIN xxxxxx: HTTP 404, Respuesta: <!DOCTYPE html>
+<html lang="en" class="scroll-smooth hover:scroll-auto" color-theme="">
+   <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="csrf-token" content="Mkjtjw3Zz40qIREkztdtvsulfIywO0WYrkld2je1">
+    <title>The Page not found - BIN Check</title>
+    <meta name="description" content="">
+    <link rel="icon" href="https://bincheck.io/assets/favicon.svg" sizes="any" type="image/svg+xml">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="1 days">
+    <meta name="author" content="bincheck.io">
+    <meta name="robots" content="noindex, nofollow">
+    <link href="https://bincheck.io/assets/css/app.css" rel="stylesheet">
+    <script src="/assets/js/app.js?id=87c45b803481c78169f406fd11fef818" defer></script>
+       </head>
+    <body class="max-h-screen dark:text-gray-200 dark:bg-gray-900" dir="auto" >        
+        <section class="relative w-full h-auto h-screen bg-white bg-no-repeat bg-cover dark:text-gray-200 dark:bg-gray-900 dark:bg-blend-multiply" style="background-image:url('https://bincheck.io/assets/svg/error-404.svg')">
+            <div class="relative px-6 mx-auto max-w-7xl">                    
+                        <div class="relative w-full px-8 mb-12 lg:w-7/12 lg:mb-0">
+                            <div class="relative py-14 md:py-18 xl:py-20">
+                                <a class="flex w-full mb-3 text-3xl font-bold lg:justify-start font-heading" href="https://bincheck.io">
+                                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" class="h-16 w-16 fill-blue-600 dark:fill-white" viewBox="0 0 256 256"><defs></defs>aria-label="[title + description]"role=img&gt;<title>[Menu]</title><desc>[Mobile Main Menu]</desc><path class="cls-1" d="M250.69,225.64c-4.4-5.22-7.63-9.41-10.22-16.9-5.36-20.23.91-43.41.91-43.41l0,0a126.75,126.75,0,0,0,6.38-39.74C247.72,56.23,192.26,0,123.86,0S0,56.23,0,125.61c0,53.68,33.23,99.48,80,117.45h0l.82.32a121.34,121.34,0,0,0,19,5.44c25.31,5.79,74.1,12.36,142,.81C258.66,246.7,259,235.49,250.69,225.64ZM166.51,169a7.82,7.82,0,0,1-11.16.35l-16.6-15.82a34,34,0,0,1-16,4C103.61,157.51,88,141.7,88,122.26S103.61,87,122.78,87s34.76,15.81,34.76,35.25A35.28,35.28,0,0,1,150.8,143l15.37,14.65A8.1,8.1,0,0,1,166.51,169Z"></path><path class="cls-1" d="M122.78,101a21.22,21.22,0,1,0,20.92,21.22A21.1,21.1,0,0,0,122.78,101Z"></path></svg>
+                                </a>
+                                <div class="flex flex-col mb-6 lg:items-start">
+                                    <span class="mb-6 ml-1 text-gray-900 dark:text-gray-100">Bincheck.io</span>
+                                    <h3 class="text-2xl font-bold">This page doesn&#039;t exist!</h3>
+                                </div>
+                                    <div class="relative z-20 flex flex-col items-start max-w-md space-y-6">
+                                        <h1 class="font-extrabold text-9xl">404</h1>
+                                        <h1 class="text-3xl font-extrabold">Looks like you lost in nowhere!.</h1>
+                                        <p class="font-medium text-gray-900 dark:text-gray-200">It looks like that you&#039;ve reached a URL that doesn&#039;t exist. Please return to home page and use the search bar below to find your way back to thae page you&#039;re looking for.</p>
+                                        <a href="https://bincheck.io" class="inline-block w-full px-5 py-4 font-bold text-center text-white bg-blue-600 rounded hover:bg-blue-700 md:w-auto">Go to Home Page</a>
+                                    </div>
+                            </div>
+                    </div>
+                 <p class="relative px-8 mb-12 text-sm text-gray-500 lg:bottom-10 xl:bottom-3">&copy; BinCheck <span id="year"><script> document.getElementById("year").innerHTML = new Date().getFullYear();</script>. All rights reserved.</p>
+                </div>
+        </section>
+
+    <script>
+    function updateTheme() {
+        if (!('theme' in localStorage)) {
+            localStorage.theme = 'light';
+        }
+
+        switch (localStorage.theme) {
+            case 'system':
+                if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                    document.documentElement.classList.add('dark');
+                } else {
+                    document.documentElement.classList.remove('dark');
+                }
+                document.documentElement.setAttribute('color-theme', 'system');
+                themeToggleSystemIcon.classList.remove('hidden');
+                break;
+
+            case 'dark':
+                document.documentElement.classList.add('dark');
+                document.documentElement.setAttribute('color-theme', 'dark');
+                themeToggleLightIcon.classList.remove('hidden');
+                break;
+
+            case 'light':
+                document.documentElement.classList.remove('dark');
+                document.documentElement.setAttribute('color-theme', 'light');
+                themeToggleDarkIcon.classList.remove('hidden');
+                break;
+        }
+    }
+
+    updateTheme();
+        // themeToggleLightIcon.classList.add('hidden');
+        // themeToggleSystemIcon.classList.add('hidden');
+        // themeToggleDarkIcon.classList.add('hidden');
+
+
+    window.toDarkMode = function() {
+        localStorage.theme = "dark", window.updateTheme();
+        themeToggleLightIcon.classList.remove('hidden');
+        themeToggleDarkIcon.classList.add('hidden');
+        themeToggleSystemIcon.classList.add('hidden');
+
+    }, window.toLightMode = function() {
+        localStorage.theme = "light", window.updateTheme();
+        themeToggleLightIcon.classList.add('hidden');
+        themeToggleDarkIcon.classList.add('hidden');
+        themeToggleSystemIcon.classList.remove('hidden');
+    }, window.toSystemMode = function() {
+        localStorage.theme = "system", window.updateTheme();
+        themeToggleSystemIcon.classList.add('hidden');
+        themeToggleDarkIcon.classList.remove('hidden');
+    }
+</script>
+    </body>
+</html>
+
+[2025-06-19 00:54:22] Respuesta de editMessage: {"ok":true,"result":{"message_id":429,"from":{"id":8076521376,"is_bot":true,"first_name":"lopezSniperBot","username":"tetrisaxlgc_bot"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287259,"edit_date":1750287263,"text":"HECKER CHK \u26a1\ufe0f - Estado - OK\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] PUERTA: VERIFICACI\u00d3N DE TARJETA STRIPE\n[\u03df] CC: xxxxxx|11|2027|xxx\n[\u03df] ESTADO: TARJETA RECHAZADA \u274c\n[\u03df] RESPUESTA: La tarjeta fue rechazada por el emisor\n[\u03df] BIN CON ERROR: No\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] BIN: xxxxxx\n[\u03df] PA\u00cdS: Desconocido \n[\u03df] MARCA: Desconocido\n[\u03df] NIVEL: Desconocido\n[\u03df] TIPO: Desconocido\n[\u03df] BANCO: Desconocido\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] TIEMPO: 7.5051221847534 s\n[\u03df] Verificado por: @N/A\n[\u03df] ID de usuario: 6240292246\n[\u03df] Premium activado: \u2705","entities":[{"offset":0,"length":93,"type":"bold"},{"offset":93,"length":18,"type":"code"},{"offset":111,"length":376,"type":"bold"}]}}
+[2025-06-19 00:54:22] Sesiones guardadas en sessions.json
+[2025-06-19 00:54:22] Sesión eliminada para formId: 4982d7fe31f76489ad89dcaf747b9aac
+[2025-06-19 00:55:37] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:55:37] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:55:37] Normalized Path: /bot.php
+[2025-06-19 00:55:37] Update recibido: {"update_id":971331076,"message":{"message_id":430,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287339,"text":"\/luch","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+[2025-06-19 00:55:37] Comando recibido: /luch
+[2025-06-19 00:55:43] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:55:43] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:55:43] Normalized Path: /bot.php
+[2025-06-19 00:55:43] Update recibido: {"update_id":971331077,"edited_message":{"message_id":430,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287339,"edit_date":1750287344,"text":"\/luhn","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+[2025-06-19 00:55:43] Comando recibido: 
+[2025-06-19 00:56:03] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:56:03] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:56:03] Normalized Path: /bot.php
+[2025-06-19 00:56:03] Update recibido: {"update_id":971331078,"message":{"message_id":431,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287364,"text":"\/luh","entities":[{"offset":0,"length":4,"type":"bot_command"}]}}
+[2025-06-19 00:56:03] Comando recibido: /luh
+[2025-06-19 00:56:06] Script iniciado, REQUEST_URI: /Hecker-CHK-main/bot.php
+[2025-06-19 00:56:06] Path procesado: /Hecker-CHK-main/bot.php
+[2025-06-19 00:56:06] Normalized Path: /bot.php
+[2025-06-19 00:56:06] Update recibido: {"update_id":971331079,"message":{"message_id":432,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287368,"text":"\/luhn","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+[2025-06-19 00:56:06] Comando recibido: /luhn
+[2025-06-19 00:56:06] Procesando comando /luhn para userId: 6240292246
+[2025-06-19 00:56:07] Respuesta de sendChatAction: {"ok":true,"result":true}
+[2025-06-19 00:56:08] Respuesta de sendMessage: {"ok":true,"result":{"message_id":433,"from":{"id":8076521376,"is_bot":true,"first_name":"lopezSniperBot","username":"tetrisaxlgc_bot"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287370,"reply_to_message":{"message_id":432,"from":{"id":6240292246,"is_bot":false,"first_name":"Axl","last_name":"Gc","language_code":"es"},"chat":{"id":6240292246,"first_name":"Axl","last_name":"Gc","type":"private"},"date":1750287368,"text":"/luhn","entities":[{"offset":0,"length":5,"type":"bot_command"}]},"text":"HECKER CHK \u26a1\ufe0f - Estado - OK\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n[\u03df] Debes proporcionar un n\u00famero de tarjeta v\u00e1lido (12-19 d\u00edgitos) o en formato n\u00famero|mes|a\u00f1o|cvv .","entities":[{"offset":0,"length":142,"type":"bold"}]}}
